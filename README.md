@@ -17,7 +17,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - [GitHub](https://github.com/your-github-username)
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
-## AlgoGoogle
+## Portfolio Topic
 
 <dl>
 <dt>Course Name</dt>
