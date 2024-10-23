@@ -25,6 +25,9 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 [Check out a sample Portfolio](https://jiyapalrecha35.github.io/Google.github.io/)<br>
 [Check out this repo](https://github.com/hiteshchoudhary/apihub)<br>
 
+
+[About Me](about.md)
+
 <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
