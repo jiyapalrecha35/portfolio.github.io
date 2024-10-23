@@ -19,6 +19,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## Portfolio Topic
 
+![Project Screenshot](assets/image.png)
+
 <dl>
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
